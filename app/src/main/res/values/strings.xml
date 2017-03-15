@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="load_more">加载更多</string>
+    <string name="pull_to_refresh">快..快松手！</string>
+    <string name="refreshing">等会儿嘛~</string>
+    <string name="release_to_refresh">xiu~~</string>
+</resources>
